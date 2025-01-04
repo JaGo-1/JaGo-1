@@ -40,10 +40,6 @@
 </div>
 
 
-<h3 align="left">🌐   Get in Touch </h3>
-
-💼 **LinkedIn**: Explore my profile and connect with me on [LinkedIn](www.linkedin.com/in/jacquelineegomez22).  
-
 
 
 
